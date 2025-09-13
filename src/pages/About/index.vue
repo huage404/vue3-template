@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>About</h1>
+    <h1 class="text-3xl font-bold underline">About</h1>
     <router-link to="/">Home</router-link>
   </div>
 </template>
